@@ -1,11 +1,11 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="springFramework:jar">
-    <output-path>$PROJECT_DIR$/out/artifacts/springFramework_jar</output-path>
-    <root id="archive" name="springFramework.jar">
+  <artifact type="jar" name="homeWork1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/homeWork1_jar</output-path>
+    <root id="archive" name="homeWork1.jar">
       <element id="directory" name="META-INF">
         <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
       </element>
-      <element id="module-output" name="springFramework" />
+      <element id="module-output" name="homeWork1" />
       <element id="extracted-dir" path="$MAVEN_REPOSITORY$/junit/junit/3.8.1/junit-3.8.1.jar" path-in-jar="/" />
     </root>
   </artifact>

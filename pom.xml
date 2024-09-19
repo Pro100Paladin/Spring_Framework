@@ -7,11 +7,15 @@
   <groupId>ru.medvedev</groupId>
   <artifactId>springFramework</artifactId>
   <version>1.0-SNAPSHOT</version>
+  <packaging>pom</packaging>
 
   <name>springFramework</name>
   <description>A simple springFramework.</description>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
+  <modules>
+    <module>homeWork1</module>
+  </modules>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

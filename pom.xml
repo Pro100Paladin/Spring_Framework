@@ -15,6 +15,7 @@
   <url>http://www.example.com</url>
   <modules>
     <module>homeWork1</module>
+      <module>homeWork2</module>
   </modules>
 
   <properties>

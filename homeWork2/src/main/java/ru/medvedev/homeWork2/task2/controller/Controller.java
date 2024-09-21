@@ -42,5 +42,10 @@ public class Controller {
     public Student deleteStudent(@PathVariable long id) {
         return studentRepository.deleteStudent(id);
     }
+
+    @GetMapping(value = "/{groupName}/students")
+    public List<Student> getGroupStudents(@PathVariable String groupName) {
+        return studentRepository.getGroupStudents(groupName);
+    }
 }
 
